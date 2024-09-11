@@ -107,6 +107,8 @@ Para hacer el contenido disponible
 
 El PBB Canvas es una herramienta valiosa para equipos ágiles que buscan mejorar la calidad de sus historias de usuario y, por ende, la eficacia de su desarrollo de producto.
 
+![Template](https://github.com/LeonRamos/Agil_IBT_canvas_PBB/edit/main/PBB.md#:~:text=PBB.-,png,-Editing%20PBB.md)
+
 # Origen y Contexto
 
 El concepto de Historias de Usuario fue introducido por Kent Beck como parte de la Programación Extrema para fomentar un enfoque máságil y conversacional en la recopilación de requisitos. Mike Cohn posteriormente popularizó el concepto con su libro "User Stories Applied: For Agile Software Development" (2003).
