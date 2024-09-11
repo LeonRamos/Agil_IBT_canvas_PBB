@@ -108,6 +108,7 @@ Para hacer el contenido disponible
 El PBB Canvas es una herramienta valiosa para equipos ágiles que buscan mejorar la calidad de sus historias de usuario y, por ende, la eficacia de su desarrollo de producto.
 
 ![Template](https://github.com/LeonRamos/Agil_IBT_canvas_PBB/blob/main/Disen%CC%83o%20sin%20ti%CC%81tulo%20(1).pdf)
+[canva](https://www.canva.com/design/DAFnlpa1v0U/eVVs3-80jB95xkjxEIwuGA/view)
 
 # Origen y Contexto
 
