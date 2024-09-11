@@ -1,11 +1,4 @@
-# CANVAS PBB 
-
-```markdown
-# Product Backlog Building (PBB) Canvas
-
-Te explicaré qué es el Product Backlog Building (PBB) Canvas y cómo se realiza su llenado, basándome en la información proporcionada y en el artículo de Martin Fowler que mencionas.
-
-## PBB Canvas
+# PBB CANVAS 
 
 El PBB Canvas es una herramienta colaborativa diseñada para ayudar a los equipos a escribir historias de usuario de manera efectiva. Este enfoque fue desarrollado por Fábio Aguiar y Paulo Caroli para facilitar la creación de un backlog de producto bien estructurado.
 
@@ -29,11 +22,10 @@ El canvas se compone de tres bloques principales:
 
 **Ejemplo**:
 
-```Persona: Orador
+Persona: Orador
 Perfil: Profesional que desea compartir conocimientos
 Actividades: Preparar presentaciones, dar charlas
 Expectativas: Llegar a una audiencia interesada, mejorar habilidades de presentación
-```
 
 #### 2. Entender las Funcionalidades
 
@@ -46,11 +38,10 @@ Expectativas: Llegar a una audiencia interesada, mejorar habilidades de presenta
 
 **Ejemplo**:
 
-```Funcionalidad: Publicar una charla
+Funcionalidad: Publicar una charla
 Descripción: Permite a los oradores subir y compartir sus presentaciones
 Desafíos: Asegurar la calidad del contenido, gestionar formatos diversos
 Beneficios: Hacer el contenido disponible, aumentar visibilidad del orador
-```
 
 #### 3. Identificar los Elementos del Backlog de Producto (PBIs)
 
@@ -62,11 +53,11 @@ Beneficios: Hacer el contenido disponible, aumentar visibilidad del orador
 
 **Ejemplo**:
 
-```PBI 1: Acceder a un espacio de trabajo privado
+PBI 1: Acceder a un espacio de trabajo privado
 PBI 2: Subir una presentación
 PBI 3: Editar detalles de la charla
 PBI 4: Publicar la charla
-```
+
 
 #### 4. Conectar los bloques como una Historia de Usuario
 
@@ -76,10 +67,10 @@ PBI 4: Publicar la charla
 
 **Ejemplo de Historia de Usuario**:
 
-```Como Orador,
+Como Orador,
 Quiero realizar la publicación del trabajo
 Para hacer el contenido disponible
-```
+
 
 #### 5. Completar la Historia de Usuario
 
@@ -89,7 +80,7 @@ Para hacer el contenido disponible
 
 **Ejemplo de Historia de Usuario Completa**:
 
-```Como Orador,
+Como Orador,
 Quiero realizar la publicación del trabajo
 Para hacer el contenido disponible
 
@@ -105,7 +96,6 @@ Para hacer el contenido disponible
 
 **Interfaz de Usuario**:
 - Diseñar página de carga de charlas con campos para título, descripción, etiquetas y archivo
-```
 
 ### Beneficios del PBB Canvas
 
@@ -116,7 +106,7 @@ Para hacer el contenido disponible
 - **Flexibilidad**: Permite ajustes y refinamientos continuos del backlog.
 
 El PBB Canvas es una herramienta valiosa para equipos ágiles que buscan mejorar la calidad de sus historias de usuario y, por ende, la eficacia de su desarrollo de producto.
-```
+
 # Origen y Contexto
 
 El concepto de Historias de Usuario fue introducido por Kent Beck como parte de la Programación Extrema para fomentar un enfoque máságil y conversacional en la recopilación de requisitos. Mike Cohn posteriormente popularizó el concepto con su libro "User Stories Applied: For Agile Software Development" (2003).
@@ -175,5 +165,5 @@ El PBB Canvas proporciona una estructura clara y colaborativa para crear histori
 
 Para más información, consulta la [traducción del artículo «Product Backlog Building Canvas» en la página de Martin Fowler](https://martinfowler.com/articles/product-backlog-building-canvas.html).
 
-> **Cita**: "Una herramienta colaborativa para escribir historias de usuario. Muchos equipos de software describen las funcionalidades deseadas del producto como un backlog de producto: una lista de historias de usuario. Estas historias captan quién necesita la funcionalidad, qué se espera de ella y por qué se necesita. Con frecuencia, los equipos esperan que el propietario de producto (Product Owner) sea la única persona que alimenta el backlog, pero cualquier persona podría (y debería) escribir historias de usuario. El Canvas de Product Backlog Building (PBB) proporciona un proceso simple para desarrollar historias de usuario, comenzando con la descripción de las personas para el producto y las actividades que realizan." - (Martin Fowler)[https://caroli.org/es/el-canvas-de-pbb/]
+> **Cita**: "Una herramienta colaborativa para escribir historias de usuario. Muchos equipos de software describen las funcionalidades deseadas del producto como un backlog de producto: una lista de historias de usuario. Estas historias captan quién necesita la funcionalidad, qué se espera de ella y por qué se necesita. Con frecuencia, los equipos esperan que el propietario de producto (Product Owner) sea la única persona que alimenta el backlog, pero cualquier persona podría (y debería) escribir historias de usuario. El Canvas de Product Backlog Building (PBB) proporciona un proceso simple para desarrollar historias de usuario, comenzando con la descripción de las personas para el producto y las actividades que realizan." - [Martin Fowler](https://caroli.org/es/el-canvas-de-pbb/)
 
